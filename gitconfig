@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = altvnko@gmail.com
+	name = Anthony Carter
